@@ -138,7 +138,7 @@ Through this project, you demonstrate:
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/retail-customer-analytics.git
+git clone https://github.com/sharanit/retail-customer-analytics.git
 
 # 2. Setup environment
 cd retail-customer-analytics

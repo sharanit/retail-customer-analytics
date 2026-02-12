@@ -4,7 +4,7 @@
 
 ```bash
 # Clone and setup
-git clone https://github.com/yourusername/retail-customer-analytics.git
+git clone https://github.com/sharanit/retail-customer-analytics.git
 cd retail-customer-analytics
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
